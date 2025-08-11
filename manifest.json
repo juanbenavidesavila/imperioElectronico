@@ -2,7 +2,7 @@
     "name": "imperio electronico",
     "icons": [
       {
-        "src": "static/icon_i_e.png",
+        "src": "static/icon_imperio_electronico.png",
         "type": "image/png",
         "sizes": "512x512"
       }
