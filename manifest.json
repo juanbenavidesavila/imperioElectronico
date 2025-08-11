@@ -1,0 +1,10 @@
+{
+    "name": "imperio electronico",
+    "icons": [
+      {
+        "src": "static/icon_i_e.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
